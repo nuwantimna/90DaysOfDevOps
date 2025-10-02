@@ -49,3 +49,8 @@ What is DevOps? Easy Way
 DevOps roadmap 2022 | Success Roadmap 2022
 From Zero to DevOps Engineer - DevOps Roadmap for YOUR specific background
 If you made it this far, then you will know if this is where you want to be or not. See you on Day 2.
+
+
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
